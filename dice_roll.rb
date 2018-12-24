@@ -5,3 +5,5 @@
 def roll
   roll = [1..6].sample
 end
+
+puts roll
