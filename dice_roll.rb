@@ -2,8 +2,8 @@
 
 # Feel free to google "how to generate a random number in ruby"
 
-def roll
-  roll = [1..6].sample(random: SecureRandom)
+def roll [1..6].sample(random: SecureRandom)
 end
+  roll = 
 
 puts roll
